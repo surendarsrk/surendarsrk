@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 ![bg][banner]
 
 ### Hi there, I'm Surendarsrk👋
-
 <br/>
 
 ### Python Dev
-
 <br/>
 
 🐦 [twitter][twitter] **|** 
